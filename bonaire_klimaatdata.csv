@@ -1,10 +1,10 @@
-variabel,huidig,2050_min,2050_max,2100_min,2100_max
-Gemiddelde temperatuur,28.1,28.8,29.3,28.8,31.3
-Gemiddelde temperatuur droog seizoen,28.1,28.7,29.3,28.7,31.3
-Gemiddelde temperatuur nat seizoen,29.3,30.0,30.6,30.0,32.6
-Gemiddelde neerslag,526,459,525,281,525
-Gemiddelde neerslag droog seizoen,170,140,165,92,165
-Gemiddelde neerslag nat seizoen,345,297,351,183,340
-Gemiddelde wind,8.1,8.1,8.5,8.1,8.9
-Gemiddelde wind droog seizoen,8,8,8.2,8,8.6
-Gemiddelde wind nat seizoen,7.6,7.7,7.9,7.6,8.6
+variabel,huidig,2050_min,2050_max,2100_min,2100_max,,,
+Gemiddelde temperatuur,28.5,29.3,29.8,29.2,31.8,,,
+Gemiddelde temperatuur droog seizoen,27.8,28.6,29.1,28.5,31,,,
+Gemiddelde temperatuur nat seizoen,28.9,29.7,30.2,29.6,32.3,,,
+Gemiddelde neerslag,514,436.9,514,267.28,514,,,
+Gemiddelde neerslag droog seizoen,169,135.2,163.93,87.88,163.93,,,
+Gemiddelde neerslag nat seizoen,346,301.02,352.92,179.92,352.92,,,
+Gemiddelde wind,7.8,7.878,8.034,7.8,8.658,,,
+Gemiddelde wind droog seizoen,8,8,8.16,8,8.56,,,
+Gemiddelde wind nat seizoen,7.6,7.676,7.98,7.676,8.436,,,
