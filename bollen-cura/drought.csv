@@ -1,0 +1,13 @@
+description,id,likelyness,parent,sector,severity,type,workshop
+It is getting drier,1,,,,,Theme,
+"Prolonged drought, seawater intrusion, increased evaporation (or temperature)",2,,1,,,Hazard,
+Water demand increase,3,0,2,socio,0.9,Impact,1
+Loss of terrestrial biodiversity,4,0,2,environmental,0.8,Impact,0
+Crop failure,5,0,2,economic,0.8,Impact,0
+Limited freshwater resources,6,0,2,socio,0.8,Impact,0
+Infrastructure damage,7,0,2,economic,0.7,Impact,1
+Animal meat and husbandry,8,0,2,economic,0.1,Impact,1
+Wildfire,9,0,1,,0.6,Hazard,
+Damage to natural areas,10,0,9,environmental,0.8,Impact,1
+Health impacts and damage,11,0,9,socio,0.3,Impact,0
+Damage to infrastructures,12,0,9,economic,0.8,Impact,1
