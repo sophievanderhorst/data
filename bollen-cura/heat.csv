@@ -1,15 +1,15 @@
 description,id,likelyness,parent,sector,severity,type,workshop
 It is getting warmer,1,,,,,Theme,
 Higher average temperatures,2,,1,,,Hazard,
-"Loss of intangible cultural heritage (e.g. fishery, agricultural practices, and festivities)",3,0,2,socio,0,Impact,0
+Loss of intangible cultural heritage ,3,0,2,socio,0,Impact,0
 Increase in invasive species,4,0,2,environmental,0,Impact,0
 Threath to ponds and birds species,5,0,2,economic,0,Impact,0
 Impact of airconditioning on the environment,6,0,2,socio,0,Impact,0
 "Shift in working hours, sport, and school times",7,0,2,economic,0,Impact,0
-Infectious diseases (more mosquitos),8,0,2,economic,0,Impact,0
+Infectious diseases (mosquitos),8,0,2,economic,0,Impact,0
 More extreme temperatures,9,,1,,,Hazard,
 Increase in power outages related to engine overheating,10,0,9,environmental,0,Impact,0
-"Increase in costs from energy, drinking water, and fuel due to high demand",11,0,9,socio,0,Impact,0
+"Increase in costs from energy, drinking water, and fuel",11,0,9,socio,0,Impact,0
 Biodiversity loss,12,0,9,economic,0,Impact,0
 Wildfires increasing koraal tabak,13,0,9,environmental,0,Impact,0
 Algae bloom,14,0,9,,0,Impact,0
@@ -20,4 +20,4 @@ Health problems,18,0,9,socio,0,Impact,0
 Negative impact on tourism and hospitality,19,0,9,economic,0,Impact,0
 Increase in car accidents,20,0,9,socio,0,Impact,0
 Pollution of water cistern,21,0,9,socio,0,Impact,0
-"Revision of construction design standards, reorganising buildings in neighborhoods",22,0,9,economic,0,Impact,0
+Revision of construction design standards,22,0,9,economic,0,Impact,0
