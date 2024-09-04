@@ -1,0 +1,17 @@
+description,id,likelyness,parent,sector,severity,type,workshop
+Caribbean Sea is getting warmer and more acid,1,0,,,,Theme,
+All species with calcereous skeleton are at risk due to acification; also less plankton,2,0,1,environmental,0,Impact,1
+"Evolution / reproduction deseases, viruses, bacteria",3,0,2,environmental,0,Impact,1
+More invasive species (e.g. lion fish),4,0,2,environmental,0,Impact,1
+Sargassum growth,5,0,2,environmental,0,Impact,1
+Loss of mangroves,6,0,2,environmental,0,Impact,1
+Decline in coral reefs,7,0,2,environmental,0,Impact,0
+"Loss of marine biodiversity, loss of natural coastal protection",8,0,7,environmental,0,Impact,0
+Collapse of specific commercial fish species,9,0,7,economic,0,Impact,0
+Decline in tourism and cruises,10,0,7,economic,0,Impact,0
+Decline in coastal protection (because of coral reef loss),11,0,7,socio,0,Impact,0
+"Loss of sea life (coral, fish) ",12,0,7,economic,0,Impact,1
+Reduction / destruction of indigeneous species and their habitats ,13,0,4,environmental,0,Impact,1
+Health risk for humans and other species along the coast; (temporary) loss of recreational sites.,14,0,5,,0,Impact,1
+Coastal erosion,15,0,6,socio,0,Impact,1
+"Decline of the fishing culture, income, food security",16,0,12,socio,0,Impact,1

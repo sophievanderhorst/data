@@ -1,5 +1,5 @@
 description,id,likelyness,parent,sector,severity,type,workshop
-"Storms, rains& cyclones are intensifying",1,,,,,Theme,
+"Storms, rains & cyclones are intensifying",1,,,,,Theme,
 Erosion and washing away of soil,2,,1,,,Hazard,
 "Damages to land (e.g. trees falling , roads washing away)",3,0,2,economic,0,Impact,0
 Fertility of soil reduces ,4,0,2,economic,0,Impact,1
