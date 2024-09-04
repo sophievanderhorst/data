@@ -1,0 +1,15 @@
+description,id,likelyness,parent,sector,severity,type,workshop
+The sea level is rising,1,,,,,Theme,
+Beach erosion,2,,1,,,Hazard,
+Tourism revenue decrease,3,0,2,economic,0.9,Impact,0
+Decrease in beach habitats,4,0,2,environmental,0.8,Impact,1
+Coastal inundation,5,0,1,,0.6,Hazard,
+Permanently flooded buildings and infrastructure,6,0,5,economic,0,Impact,
+Permanently flooded cultural heritage,7,0,5,socio,0.8,Impact,1
+Salination,8,0,1,,0.6,Hazard,
+"Damage to crops, green structures, ground water, acquifers",9,0,8,environmental,0.8,Impact,1
+More wear and tear of buildings and their foundations,10,0,8,economic,0.6,Hazard,
+"Threath to salt pans, saliñas and caves",11,0,1,environmental,0.8,Hazard,1
+"Loss of land for nature, economic, residential, and cultural heritage functions; displacement of people and functions.",12,0,6,socio,0.8,Impact,1
+Reduction water quantity and quality ,13,0,6,socio,0.8,Impact,1
+Flooded land will cause pollution of the sea and seabeds ,14,0,6,environmental,0.8,Impact,1
