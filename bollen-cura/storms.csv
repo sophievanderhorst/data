@@ -21,3 +21,5 @@ Injury and loss of life,19,0,13,socio,0,Impact,0
 Risks for critical health infrastructure,20,0,13,socio,0,Impact,0
 Displacement of population,21,0,13,socio,0,Impact,1
 "Damaged boats, buildings, vital infrastructure, MSME's",22,0,13,economic,0,Impact,0
+Direct economic loss,23,0,10,economic,0,Impact,1
+Insurance fees increase or not able to insure,24,0,22,economic,0,Impact,0
