@@ -1,17 +1,15 @@
-﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
-Caribbean Sea is getting warmer and more acid,Caribische Zee wordt warmer en zuurder,Laman Karibe su awa ta bira mas kayente i mas zür,1,0,,,,Theme,
-"All species with calcereous skeleton at risk, less plankton","Alle diersoorten met kalkskelet in gevaar, minder plankton","Tur animal ku skelèt di kalki ta den peliger, tin ménos planktòn",2,0,1,environmental,0,Impact,1
-"Evolution / reproduction deseases, viruses, bacteria","Evolutie / verspreiding ziektes, virussen, bacteriën","Evolushon i plamamentu di malesa, virùs i bakteria",3,0,2,environmental,0,Impact,1
-More invasive species (e.g. lion fish),Meer invasieve soorten (bijv. koraalduivel),Mas espesie invasivo (por ehèmple lionfish),4,0,2,environmental,0,Impact,1
-Sargassum growth,Groei van Sargassum (zeewier),Kresemntu di sargaso (alga),5,0,2,environmental,0,Impact,1
-Loss of mangroves,Verlies van mangroven,Pérdida di palu di mangel,6,0,2,environmental,0,Impact,1
-Decline in coral reefs,Afname van koraalriffen,Desminuishon di ref di koral,7,0,2,environmental,0,Impact,0
-"Loss of marine biodiversity, loss of natural coastal protection","Verlies van biodiversiteit in de zee, verlies van natuurlijke kustbescherming","Pérdida di biodiversidat den laman, pérdida di protekshon natural kantu di laman",8,0,7,environmental,0,Impact,0
-Collapse of specific commercial fish species,Ineenstorting van specifieke commerciële vissoorten,Benta di piská ku balor komersial na peliger,9,0,7,economic,0,Impact,0
-Decline in tourism and cruises,Afname van toerisme en cruises,Ménos turismo i ménos barku di turista,10,0,7,economic,0,Impact,0
-Decline in coastal protection (because of coral reef loss),Afname van kustbescherming (door verlies van koraalriffen),Pérdida di protekshon di kosta (ref di koral ta disparsé),11,0,7,socio,0,Impact,0
-"Loss of sea life (coral, fish) ","Verlies van zeeleven (koraal, vis) ","Ménos bida den laman (koral, piská)",12,0,7,economic,0,Impact,1
-Reduction / destruction of indigeneous species and their habitats ,Vermindering / vernietiging van inheemse soorten en hun habitats ,Disminuishon / destrukshon di espesienan lokal i di nan habitat ,13,0,4,environmental,0,Impact,1
-"Health risk for humansspecies along the coast,  loss of recreational sites.","Gezondheids- risico voor mensen langs de kust, verlies van recreatie- gebieden.","Rísiko pa salú di hende ku ta biba kantu di laman, pérdida di áreanan di rekreashon",14,0,5,environmental,0,Impact,1
-Coastal erosion,Kusterosie,Eroshon di kosta,15,0,6,socio,0,Impact,1
-"Decline of the fishing culture, income, food security","Afname van de visserij, inkomen, voedselzekerheid","Ménos piská, ménos entrada i ménos seguridat di kuminda di laman",16,0,12,socio,0,Impact,1
+﻿description,beschrijving,descripción,id,likelyness,parent,sector,severity,type,workshop
+The sea level is rising,De zeespiegel stijgt,Nivel di laman ta subi,1,,,,,Theme,
+Beach erosion,Stranderosie,Eroshon di kosta,2,,1,,,Hazard,
+Tourism revenue decrease,Daling van inkomsten uit toerisme,Ménos entrada prosedente di turismo,3,0,2,economic,9,Impact,0
+Decrease in beach habitats,Afname van strandhabitats,Ménos lugá di biba i rekreá kantu di awa,4,0,2,environmental,8,Impact,1
+Coastal inundation,Overstroming vanuit zee,Laman ta subi tera,5,0,1,,6,Hazard,
+Permanently flooded buildings and infrastructure,Gebouwen en infrastructuur komen permanent onder water te staan,Edifisio i infrastruktura permanentemente bou di awa,6,0,5,economic,0,Impact,
+Permanently flooded cultural heritage,Permanent overstroomd cultureel erfgoed,Herensia kultural permanentemente bou di awa,7,0,5,socio,8,Impact,1
+Salination,Verzilting,Salinisashon,8,0,1,,6,Hazard,
+"Damage to crops, green structures, ground water, acquifers","Schade aan gewassen, groenstructuren, grondwater, watervoerende lagen","Daño na mata, áreanan bèrdè, awa supteráneo, akuifer (espasionan bou di tera kaminda awa ta kore pasa bai)",9,0,8,environmental,8,Impact,1
+More wear and tear of buildings and foundations,Meer slijtage van gebouwen en funderingen,Mas deterioro di edifisio i fundeshi,10,0,8,economic,6,Hazard,
+"Threath to salt pans, salinas and caves",Bedreiging van zoutpannen en grotten,Menasa pa saliña i kueba  ,11,0,1,environmental,8,Hazard,1
+Loss of land; displacement of people and functions.,Verlies van land: verdrijving van mensen en functies.,Pérdida di tereno: hende- i funshonnan desaloká,12,0,6,socio,8,Impact,1
+Reduction water quantity and quality ,Vermindering van waterkwantiteit en -kwaliteit ,Ménos kantidat i kalidat di awa,13,0,6,socio,8,Impact,1
+Flooded land will cause pollution of the sea and seabeds ,Ondergelopen land zal vervuiling van zee en zeebodems veroorzaken ,Tera inundá ta hiba shushi laman i kontaminá fondo di laman,14,0,6,environmental,8,Impact,1
