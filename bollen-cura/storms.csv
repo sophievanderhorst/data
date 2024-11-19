@@ -11,7 +11,7 @@ Vector-borne diseases ,Ziekten overgedragen door insecten,Enfermedat transmití 
 Flooded roads / disrupted road network,Ondergelopen wegen / verstoord wegennet,Kayanan bou di awa / ret di tráfiko den desorden,10,0,7,economic,0,Impact,0
 Building inundation,Overstroming van gebouwen,Inundashon di edifisio,11,0,7,economic,0,Impact,1
 Trauma,Trauma,Trouma,12,0,7,socio,0,Impact,1
-"Winds, waves and coastal floods","Winden, golven en kustoverstromingen","Bientu, ola i laman ta subi tera",13,,1,,,Hazard,
+"Winds, waves and coastal floods","Winden, golven en kust- overstromingen","Bientu, ola i laman ta subi tera",13,,1,,,Hazard,
 Food shortage,Voedseltekort,Falta di kuminda,14,0,13,socio,0,Impact,1
 Loss of crops ,Verlies van gewassen ,Pérdida di kultivo,15,0,13,economic,0,Impact,1
 Tourism decline,Achteruitgang van toerisme,Turismo ta bai atras,16,0,13,economic,0,Impact,1
