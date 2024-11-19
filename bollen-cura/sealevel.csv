@@ -1,4 +1,4 @@
-﻿description,beschrijving,descripción,id,likelyness,parent,sector,severity,type,workshop
+﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
 The sea level is rising,De zeespiegel stijgt,Nivel di laman ta subi,1,,,,,Theme,
 Beach erosion,Stranderosie,Eroshon di kosta,2,,1,,,Hazard,
 Tourism revenue decrease,Daling van inkomsten uit toerisme,Ménos entrada prosedente di turismo,3,0,2,economic,9,Impact,0
