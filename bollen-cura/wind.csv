@@ -1,4 +1,4 @@
-﻿description,beschrijving ,descripcion,id,likelyness,parent,sector,severity,type,workshop
+﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
 Changing wind,Veranderende wind,Kambio di bientu ,1,,,,,Theme,
 Wind gusts,Windvlagen,Ráfaga di bientu ,2,,1,,,Hazard,
 Damage to buildings and infrastructure,Schade aan gebouwen en infrastructuur,Daño na edifisio i infrastruktura,3,0,2,economic,9,Impact,0
