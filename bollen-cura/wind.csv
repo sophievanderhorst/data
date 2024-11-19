@@ -1,7 +1,7 @@
 ﻿description,Beschrijving ,Descripcion,id,likelyness,parent,sector,severity,type,workshop
 Changing wind,Veranderende wind,Kambio di bientu ,1,,,,,Theme,
 Wind gusts,Windvlagen,Ráfaga di bientu ,2,,1,,,Hazard,
-Damage to buildings and infrastructure,Schade aan gebouwen en infrastructuur,Daño na edifisio i infrastruktura,3,0,2,economic,9,Impact,0
+Damage to buildings and infrastructure,Schade aan gebouwen en infra,Daño na edifisio i infrastruktura,3,0,2,economic,9,Impact,0
 Wind turbines shut down,Stilgelegde windturbines,Turbina di bientu pará ketu,4,0,2,economic,8,Impact,1
 Low wind extremes,Extreme lage wind,Falta ekstremo di bientu ,5,0,1,,6,Hazard,
 Effect on public health,Effect op volksgezondheid,Efekto riba salubridat ,6,0,5,socio,8,Impact,1
