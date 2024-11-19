@@ -1,4 +1,4 @@
-﻿description,Beschrijving,Descripción,id,likelyness,parent,sector,severity,type,workshop
+﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
 It is getting warmer,Het wordt warmer,Ta hasi mas kalor,1,,,,,Theme,
 Higher average temperatures,Hogere gemiddelde temperaturen,Oumento di temperatura promedio,2,,1,,,Hazard,
 Loss of intangible cultural heritage ,Verlies van immaterieel cultureel erfgoed,Pèrdida di patrimonio kultural intangibel,3,0,2,socio,0,Impact,0

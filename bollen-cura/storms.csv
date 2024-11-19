@@ -1,4 +1,4 @@
-﻿description,Beschrijving,Descripcion,id,likelyness,parent,sector,severity,type,workshop
+﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
 "Storms, rains & cyclones are intensifying","Stormen, regen en cyclonen nemen toe","Tormenta, áwaseru i siklon ta oumentá",1,,,,,Theme,
 Erosion and washing away of soil,Erosie en wegspoelen van grond,Eroshon i pérdida di tera,2,,1,,,Hazard,
 "Damages to land (e.g. trees falling , roads washing away)","Schade aan land (bijv. omvallende bomen, wegspoelende wegen)","Daño riba tera (por ehèmpel palunan ku kai, kamindanan bou di awa)",3,0,2,economic,0,Impact,0
