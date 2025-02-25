@@ -1,0 +1,25 @@
+﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
+"Storms, rains & cyclones are intensifying","Stormen, regen en cyclonen nemen toe","Tormenta, áwaseru i siklon ta oumentá",1,,,,,Theme,
+Erosion and washing away of soil,Erosie en wegspoelen van grond,Eroshon i pérdida di tera,2,,1,,,Hazard,
+"Damages to land (e.g. trees falling , roads washing away)","Schade aan land (bijv. omvallende bomen, wegspoelende wegen)","Daño riba tera (por ehèmpel palunan ku kai, kamindanan bou di awa)",3,0,2,economic,0,Impact,0
+Fertility of soil reduces ,De vruchtbaarheid van de bodem neemt af ,Tera ta ménos fertil,4,0,2,economic,0,Impact,1
+Spread of invasive species,Verspreiding van invasieve soorten,Plamamentu di espesie invasivo,5,0,2,environmental,0,Impact,1
+Negative impacts on the shallow reef corals and other organisms,Negatieve gevolgen voor ondiepe rifkoralen en andere organismen,Efekto negativo pa ref di koral i otro organismo kant’i awa,6,0,2,environmental,0,Impact,1
+Flash floods,Stortvloeden,Diluvio,7,,1,,,Hazard,
+Disruption of education,Verstoring van onderwijs,Desrupshon di enseñansa,8,0,7,socio,0,Impact,1
+Vector-borne diseases ,Ziekten overgedragen door insecten,Enfermedat transmití pa insekto ,9,0,7,socio,0,Impact,1
+Flooded roads / disrupted road network,Ondergelopen wegen / verstoord wegennet,Kayanan bou di awa / ret di tráfiko den desorden,10,0,7,economic,0,Impact,0
+Building inundation,Overstroming van gebouwen,Inundashon di edifisio,11,0,7,economic,0,Impact,1
+Trauma,Trauma,Trouma,12,0,7,socio,0,Impact,1
+"Winds, waves and coastal floods","Winden, golven en kust- overstromingen","Bientu, ola i laman ta subi tera",13,,1,,,Hazard,
+Food shortage,Voedseltekort,Falta di kuminda,14,0,13,socio,0,Impact,1
+Loss of crops ,Verlies van gewassen ,Pérdida di kultivo,15,0,13,economic,0,Impact,1
+Tourism decline,Achteruitgang van toerisme,Turismo ta bai atras,16,0,13,economic,0,Impact,1
+Loss of cultural heritage ,Verlies van cultureel erfgoed ,Pérdida di herensia kultural,17,0,13,socio,0,Impact,1
+Increase in crime (safety),Toename van criminaliteit (veiligheid),Oumento di kriminalidat (seguridat),18,0,13,socio,0,Impact,1
+Injury and loss of life,Letsel en verlies van levens,Hende heridá i hende morto,19,0,13,socio,0,Impact,0
+Risks for critical health infrastructure,Risico's voor kritieke gezondheids- infrastructuur,Rísiko krítiko pa infrastruktura di salú ,20,0,13,socio,0,Impact,0
+Displacement of population,Ontheemding van de bevolking,Poblashon desplasá,21,0,13,socio,0,Impact,1
+"Damaged boats, buildings, vital infrastructure, MSME's","Beschadigde boten, gebouwen, vitale infrastructuur, MKB","Boto, edifisio, infrastruktura vital, Empresá Chikí  destrosá",22,0,13,economic,0,Impact,0
+Direct economic loss,Direct economisch verlies,Pérdida ekonómiko sin mas ,23,0,10,economic,0,Impact,1
+Insurance fees increase or not able to insure,Verhoging verzekerings- kosten of niet kunnen verzekeren,Subida di gastunan di seguro òf pérdida di posibilidat pa segurá propiedat,24,0,22,economic,0,Impact,0
