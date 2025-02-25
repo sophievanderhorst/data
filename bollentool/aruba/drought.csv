@@ -9,12 +9,11 @@ Increase in food prices,,,7,,2,economic,,,1
 Reduced food security (less local production),,,8,,2,economic,,,1
 Crop failure,Mislukte oogsten,Kosecha malográ,9,0,2,economic,,Impact,0
 Limited freshwater resources,Beperkte zoetwaterbronnen,Awa dushi limitá,10,0,2,socio,,Impact,0
-Infrastructure damage,Schade aan infrastructuur,Daño na infrastruktura,11,0,2,economic,,Impact,1
-Bushfire,Natuurbranden,Kandela den naturalesa,12,0,1,,,Hazard,
-Damage to housing and infrastructure,Schade aan huizen en infrastructuur,,13,,12,economic,,Impact,1
-Damage to natural areas,Schade aan natuurgebieden,Daño na áreanan den naturalesa,14,0,12,environmental,,Impact,1
-Health impacts and damage,Gevolgen en schade voor de gezondheid,Konsekuensia i daño na salú,15,0,12,socio,,Impact,0
-Dry soil,,,16,,1,,,Hazard,1
-More rainwater runoff,,,17,,16,environmental,,Impact,1
-Less groundwater replenishment,,,17,,16,environmental,,Impact,1
-"Reduced air quality, more dust",,,17,,16,socio,,Impact,1
+Bushfire,Natuurbranden,Kandela den naturalesa,11,0,1,,,Hazard,
+Damage to housing and infrastructure,Schade aan huizen en infrastructuur,,12,,11,economic,,Impact,1
+Damage to natural areas,Schade aan natuurgebieden,Daño na áreanan den naturalesa,13,0,11,environmental,,Impact,1
+Health impacts and damage,Gevolgen en schade voor de gezondheid,Konsekuensia i daño na salú,14,0,11,socio,,Impact,0
+Dry soil,,,15,,1,,,Hazard,1
+More rainwater runoff,,,16,,15,environmental,,Impact,1
+Less groundwater replenishment,,,17,,15,environmental,,Impact,1
+"Reduced air quality, more dust",,,18,,15,socio,,Impact,1
