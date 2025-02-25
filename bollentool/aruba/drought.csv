@@ -14,7 +14,6 @@ Bushfire,Natuurbranden,Kandela den naturalesa,12,0,1,,,Hazard,
 Damage to housing and infrastructure,Schade aan huizen en infrastructuur,,13,,12,economic,,Impact,1
 Damage to natural areas,Schade aan natuurgebieden,Daño na áreanan den naturalesa,14,0,12,environmental,,Impact,1
 Health impacts and damage,Gevolgen en schade voor de gezondheid,Konsekuensia i daño na salú,15,0,12,socio,,Impact,0
-Damage to infrastructure,Schade aan infrastructuur,Daño na infrastruktura,16,0,12,economic,,Impact,1
 Dry soil,,,17,,1,,,Hazard,1
 More rainwater runoff,,,18,,17,environmental,,Impact,1
 Less groundwater replenishment,,,19,,17,environmental,,Impact,1
