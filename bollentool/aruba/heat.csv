@@ -4,12 +4,12 @@ Higher average temperatures,Hogere gemiddelde temperaturen,Oumento di temperatur
 Loss of intangible cultural heritage ,Verlies van immaterieel cultureel erfgoed,Pèrdida di patrimonio kultural intangibel,3,0,2,socio,0,Impact,0
 Increase in invasive species,Toename van invasieve soorten,Kresementu di espesie invasivo ,4,0,2,environmental,0,Impact,0
 "Threat to bird species, bird migration, and (gender of) turtles",Bedreiging van vijvers en vogelsoorten,Menasa pa veiver i para,5,0,2,environmental,0,Impact,0
-Limited outdoor activities and reduced productivity outdoors,,,6,0,2,economic,0,,0
+Limited outdoor activities and reduced productivity outdoors,,,6,0,2,economic,0,Impact,0
 Impact of airconditioning on the environment,Effect van airconditioning op het milieu,Efekto di èrko riba medio ambiente,7,0,2,environmental,0,Impact,1
-Higher sea temperatures,,,8,0,,environmental,0,,1
+Higher sea temperatures,,,8,0,2,environmental,0,Impact,1
 Infectious diseases (mosquitos),Besmettelijke ziekten (muggen),Malesa kontagioso (sangura),9,0,2,socio,0,Impact,0
 More extreme temperatures,Extremere temperaturen,Temperatura ekstremo ,10,0,1,,0,Hazard,0
-Outage of vital infrastructure services,,,11,0,10,socio,0,,1
+Outage of vital infrastructure services,,,11,0,10,socio,0,Impact,1
 "Increase in power outages, maintenance cost and cooling",Toename stroomuitval door oververhitting motor,Koriente ta bai ku mas frekuensia pasobra motornan ta kalentá di mas,12,0,10,economic,0,Impact,0
 "Increase in costs from energy, drinking water, and fuel","Hogere kosten voor energie, drinkwater en brandstof","Gastu mas haltu di koriente, awa i gasolin",13,0,10,economic,0,Impact,0
 Loss of biodiversity,Verlies van biodiversiteit,Pérdida di biodiversidat,14,0,10,environmental,0,Impact,1
