@@ -1,26 +1,25 @@
 ﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
-It is getting warmer,Het wordt warmer,Ta hasi mas kalor,1,,,,,Theme,
-Higher average temperatures,Hogere gemiddelde temperaturen,Oumento di temperatura promedio,2,,1,,,Hazard,
+It is getting warmer,Het wordt warmer,Ta hasi mas kalor,1,,,,,Theme,0
+Higher average temperatures,Hogere gemiddelde temperaturen,Oumento di temperatura promedio,2,,1,,,Hazard,0
 Loss of intangible cultural heritage ,Verlies van immaterieel cultureel erfgoed,Pèrdida di patrimonio kultural intangibel,3,0,2,socio,0,Impact,0
 Increase in invasive species,Toename van invasieve soorten,Kresementu di espesie invasivo ,4,0,2,environmental,0,Impact,0
-Threath to ponds and birds species,Bedreiging van vijvers en vogelsoorten,Menasa pa veiver i para,5,0,2,environmental,0,Impact,0
-Impact of airconditioning on the environment,Effect van airconditioning op het milieu,Efekto di èrko riba medio ambiente,6,0,2,environmental,0,Impact,1
-"Shift in working hours, sport, and school times","Verschuiving in werkuren, sport en schooltijden","Desviashon den ora di trabou, - di skol, i - di deporte ",7,0,2,economic,0,Impact,0
-Infectious diseases (mosquitos),Besmettelijke ziekten (muggen),Malesa kontagioso (sangura),8,0,2,socio,0,Impact,0
-More extreme temperatures,Extremere temperaturen,Temperatura ekstremo ,9,,1,,,Hazard,
-Increase in power outages related to engine overheating,Toename stroomuitval door oververhitting motor,Koriente ta bai ku mas frekuensia pasobra motornan ta kalentá di mas,10,0,9,economic,0,Impact,0
-"Increase in costs from energy, drinking water, and fuel","Hogere kosten voor energie, drinkwater en brandstof","Gastu mas haltu di koriente, awa i gasolin",11,0,9,economic,0,Impact,0
-Biodiversity loss,Verlies van biodiversiteit,Pérdida di biodiversidat,12,0,9,environmental,0,Impact,1
-Wildfires increasing in Koraal Tabak,Toenemende natuurbranden in Koraal Tabak,Mas kandela den mondi di Koral Tabak,13,0,9,environmental,0,Impact,1
-Algae bloom,Algenbloei,Kresementu di lima,14,0,9,environmental,0,Impact,1
-"Heat-related stress, mental health, domestic violence","Stress, geestelijke gezondheid, huiselijk geweld","Strès relatá na kalor, salú mental i violensia na kas",15,0,9,socio,0,Impact,0
-"Loss of agriculture, shift to new forms","Verlies van landbouw, verschuiving naar nieuwe vormen","Ménos agrikultura, desplaso pa maneranan nobo pa kultivá ",16,0,9,economic,0,Impact,1
-"Loss of life, especially vulnerable people","Verlies van leven, vooral kwetsbare mensen","Hende ta pèrdè nan biba, foral hende vulnerabel ku ta sufri di diferente malesa ",17,0,9,socio,0,Impact,1
-Health problems,Gezondheids- problemen,Problemanan ku salú ,18,0,9,socio,0,Impact,0
-Negative impact on tourism and hospitality,Negatief effect op toerisme en horeca,Efekto negativo riba turismo i horeca,19,0,9,economic,0,Impact,1
-Increase in car accidents,Toename auto- ongelukken,Oumento di desgrasia di outo,20,0,9,socio,0,Impact,0
-Pollution of water cistern,Vervuiling van waterreservoirs,Kontaminashon di reservanan di awa,21,0,9,socio,0,Impact,1
-Revision of construction design standards,Herziening van bouwontwerp- normen,Modifikashon di normanan pa trahamentu di kas,22,0,9,economic,0,Impact,1
-Increased fire hazard and maintenance,Toegenomen brandgevaar en onderhoud,Mas peliger di kandela i mas mantenshon,23,0,11,economic,0,Impact,1
-Incentive for energy efficiency,Stimulans voor energie- efficiëntie,Estímulo pa uso mas efisiente di energia,24,0,11,economic,0,Impact,1
-Socio-economic impact on poor families,Sociaal- economische gevolgen voor arme gezinnen,Efektonan sosial-ekonómiko pa famianan di ménos rekurso,25,0,11,economic,0,Impact,1
+"Threat to bird species, bird migration, and (gender of) turtles",Bedreiging van vijvers en vogelsoorten,Menasa pa veiver i para,5,0,2,environmental,0,Impact,0
+Limited outdoor activities and reduced productivity outdoors,,,6,,2,,,,0
+Impact of airconditioning on the environment,Effect van airconditioning op het milieu,Efekto di èrko riba medio ambiente,7,0,2,environmental,0,Impact,1
+Higher sea temperatures,,,8,,,environmental,,,
+Infectious diseases (mosquitos),Besmettelijke ziekten (muggen),Malesa kontagioso (sangura),9,0,2,socio,0,Impact,0
+More extreme temperatures,Extremere temperaturen,Temperatura ekstremo ,10,,1,,,Hazard,0
+Outage of vital infrastructure services,,,11,,10,,,,1
+"Increase in power outages, maintenance cost and cooling",Toename stroomuitval door oververhitting motor,Koriente ta bai ku mas frekuensia pasobra motornan ta kalentá di mas,12,0,10,economic,0,Impact,0
+"Increase in costs from energy, drinking water, and fuel","Hogere kosten voor energie, drinkwater en brandstof","Gastu mas haltu di koriente, awa i gasolin",13,0,10,economic,0,Impact,0
+Loss of biodiversity,Verlies van biodiversiteit,Pérdida di biodiversidat,14,0,10,environmental,0,Impact,1
+"Heat-related stress, mental health + domestic violence","Stress, geestelijke gezondheid, huiselijk geweld","Strès relatá na kalor, salú mental i violensia na kas",15,0,10,socio,0,Impact,0
+"Loss of agriculture, shift to new forms","Verlies van landbouw, verschuiving naar nieuwe vormen","Ménos agrikultura, desplaso pa maneranan nobo pa kultivá ",16,0,10,economic,0,Impact,1
+"Health problems, CVA, Chronic diseases, vulnerable groups",Gezondheids- problemen,Problemanan ku salú ,17,0,10,socio,0,Impact,0
+Negative impact on tourism and hospitality,Negatief effect op toerisme en horeca,Efekto negativo riba turismo i horeca,18,0,10,economic,0,Impact,1
+Reduced health and comfort of pets and domestic animals,,,19,0,10,socio,0,Impact,1
+Desertification of land,,,20,,10,environmental,0,Impact,1
+Pressure on health care system,,,21,,10,socio,,Impact,1
+Increase in supply chain/costs because of shipping costs,,,22,,10,economic,,Impact,1
+"Hindered sports practice, cultural activities, carnaval",,,23,,10,socio,,Impact,1
+"Hindered learning, education (schools)",,,24,,10,socio,,Impact,1

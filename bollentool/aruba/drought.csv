@@ -1,6 +1,6 @@
 ﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
-It is getting drier,Het wordt droger,Tin mas sekura ,1,,,,,Theme,
-"Prolonged drought, salt water intrusion, increased evaporation","Langdurige droogte, zoutindringing, toegenomen verdamping","Sekura pa largu tempu, mas salu ta penetrá atmósfera, tin mas humedat den airu",2,,1,,,Hazard,
+It is getting drier,Het wordt droger,Tin mas sekura ,1,,,,,Theme,0
+"Prolonged drought, salt water intrusion, increased evaporation","Langdurige droogte, zoutindringing, toegenomen verdamping","Sekura pa largu tempu, mas salu ta penetrá atmósfera, tin mas humedat den airu",2,,1,,,Hazard,0
 Increase in cost of landscaping & irrigation,,,3,,2,economic,,,1
 Reduced Wetland Ecosystem Services,,,4,,2,environmental,,,1
 Water demand increase,De vraag naar water neemt toe,Mas demanda pa awa,5,0,2,socio,,Impact,1
@@ -9,7 +9,7 @@ Increase in food prices,,,7,,2,economic,,,1
 Reduced food security (less local production),,,8,,2,economic,,,1
 Crop failure,Mislukte oogsten,Kosecha malográ,9,0,2,economic,,Impact,0
 Limited freshwater resources,Beperkte zoetwaterbronnen,Awa dushi limitá,10,0,2,socio,,Impact,0
-Bushfire,Natuurbranden,Kandela den naturalesa,11,0,1,,,Hazard,
+Bushfire,Natuurbranden,Kandela den naturalesa,11,0,1,,,Hazard,0
 Damage to housing and infrastructure,Schade aan huizen en infrastructuur,,12,,11,economic,,Impact,1
 Damage to natural areas,Schade aan natuurgebieden,Daño na áreanan den naturalesa,13,0,11,environmental,,Impact,1
 Health impacts and damage,Gevolgen en schade voor de gezondheid,Konsekuensia i daño na salú,14,0,11,socio,,Impact,0
