@@ -25,9 +25,9 @@ Damage buildings and infrastructure – Tourism and telecom,"Beschadigde boten, 
 Direct economic loss,Direct economisch verlies,Pérdida ekonómiko sin mas ,30,0,20,economic,0,Impact,1
 Insurance fees increase or not able to insure,Verhoging verzekerings- kosten of niet kunnen verzekeren,Subida di gastunan di seguro òf pérdida di posibilidat pa segurá propiedat,31,0,20,economic,0,Impact,1
 Loss of key biodiversity areas,,,32,0,20,environmental,0,Impact,1
-"environmental/coastal ecosystems, bird nesting ",,,33,0,20,environmental,0,Impact,1
+"Damage to coastal ecosystems, bird nesting ",,,33,0,20,environmental,0,Impact,1
 "Shortages (food, supply, materials) ",,,34,0,20,socio,0,Impact,1
 "Financial impacts - Health, reconstruction, and rebuilding expenses ",,,35,0,20,economic,0,Impact,1
-Vegetation loss and soil loss,,,36,0,20,environmental,0,Impact,1
+Vegetation loss and soil loss,,,36,0,2,environmental,0,Impact,1
 Temporary labour impact ,,,37,0,20,economic,0,Impact,1
-fisheries disrupted / infrastructure damaged ,,,38,0,20,economic,0,Impact,1
+Fisheries disrupted,,,38,0,20,economic,0,Impact,1
