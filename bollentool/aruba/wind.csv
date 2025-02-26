@@ -1,15 +1,17 @@
 ﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
-Changing wind,Veranderende wind,Kambio di bientu ,1,,,,,Theme,
-Wind gusts,Windvlagen,Ráfaga di bientu ,2,,1,,,Hazard,
-Damage to buildings and infrastructure,Schade aan gebouwen en infrastructuur,Daño na edifisio i infrastruktura,3,0,2,economic,9,Impact,0
-Wind turbines shut down,Stilgelegde windturbines,Turbina di bientu pará ketu,4,0,2,economic,8,Impact,1
-Low wind extremes,Extreme lage wind,Falta ekstremo di bientu ,5,0,1,,6,Hazard,
-Effect on public health,Effect op volksgezondheid,Efekto riba salubridat ,6,0,5,socio,8,Impact,1
-Changing wind direction,Veranderende windrichting,Kambio di direkshon di bientu,7,0,1,,6,Hazard,
-Impact on existing buildings,Effect op bestaande gebouwen,Efekto riba edifisionan eksistente,8,0,7,socio,8,Impact,1
-Increase in average wind speed,Toename van gemiddelde windsnelheid,Oumento di velosidat promedio di bientu,9,0,1,,6,Hazard,
-Impact on agriculture,Effect op landbouw,Efekto riba agrikultura,10,0,9,economic,8,Impact,1
-Loss of vegetation in nature areas,Verlies van vegetatie in natuurgebieden,Pérdida di vegetashon den áreanan di naturalesa,11,0,9,environmental,8,Impact,1
-Increase maintenance cost,Toename onderhoudskosten,Oumento di gastunan di mantenshon,12,0,9,economic,8,Impact,1
-Increased chance of damage to wind turbine,Verhoogde kans op schade aan windturbine,Mas chèns pa daño na turbinan di bientu,13,0,9,economic,8,Impact,1
-Increase in wind power,Toename windvermogen,Mas forsa di bientu ku normal,14,0,9,economic,8,Impact,0
+Changing wind,Veranderende wind,Kambio di bientu ,1,,,,0,Theme,
+Wind gusts,Windvlagen,Ráfaga di bientu ,2,,1,,0,Hazard,0
+Damage to buildings and infrastructure,Schade aan gebouwen en infrastructuur,Daño na edifisio i infrastruktura,3,0,2,economic,0,Impact,0
+Low wind extremes,Extreme lage wind,Falta ekstremo di bientu ,4,0,1,,0,Hazard,1
+Changing wind direction,Veranderende windrichting,Kambio di direkshon di bientu,5,0,1,,0,Hazard,0
+Increase in average wind speed,Toename van gemiddelde windsnelheid,Oumento di velosidat promedio di bientu,6,0,1,,0,Hazard,0
+Increase in wind power,Toename windvermogen,Mas forsa di bientu ku normal,7,0,6,economic,0,Impact,0
+Change in perceived ambient temperature ,,,8,0,6,socio,0,Impact,1
+Nuisance from landfill/incinerator or industries,,,9,0,5,socio,0,Impact,1
+Impacts for airport and harbour operations ,,,10,0,5,economic,0,Impact,1
+Impact for boating anchorages and fisheries ,,,11,0,5,economic,0,Impact,1
+Ocean disruptions (waves) + interruptions in fishing activities,,,12,0,5,environmental,0,Impact,1
+More mosquitos among humans,,,13,0,4,socio,0,Impact,1
+"Cultural/social activities: flying kites, kitesurfing",,,14,0,7,socio,0,Impact,1
+Zink roofs flying ,,,15,0,2,socio,0,Impact,1
+Dunes disruption,,,16,0,2,environmental,0,Impact,1
