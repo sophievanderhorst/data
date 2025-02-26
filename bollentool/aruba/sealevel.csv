@@ -2,14 +2,17 @@
 The sea level is rising,De zeespiegel stijgt,Nivel di laman ta subi,1,,,,,Theme,
 Beach erosion,Stranderosie,Eroshon di kosta,2,,1,,,Hazard,
 Tourism revenue decrease,Daling van inkomsten uit toerisme,Ménos entrada prosedente di turismo,3,0,2,economic,9,Impact,0
-Decrease in beach habitats,Afname van strandhabitats,Ménos lugá di biba i rekreá kantu di awa,4,0,2,environmental,8,Impact,1
+"Decrease in beach habitats (turtle laying areas, wetlands and mangroves)",Afname van strandhabitats,Ménos lugá di biba i rekreá kantu di awa,4,0,2,environmental,8,Impact,1
 Coastal inundation,Overstroming vanuit zee,Laman ta subi tera,5,0,1,,6,Hazard,
 Permanently flooded buildings and infrastructure,Gebouwen en infrastructuur komen permanent onder water te staan,Edifisio i infrastruktura permanentemente bou di awa,6,0,5,economic,0,Impact,
 Permanently flooded cultural heritage,Permanent overstroomd cultureel erfgoed,Herensia kultural permanentemente bou di awa,7,0,5,socio,8,Impact,1
-Salination,Verzilting,Salinisashon,8,0,1,,6,Hazard,
+"Salt water intrusion, reduced water and soil quality",Verzilting,Salinisashon,8,0,1,,6,Hazard,
 "Damage to crops, green structures, ground water, acquifers","Schade aan gewassen, groenstructuren, grondwater, watervoerende lagen","Daño na mata, áreanan bèrdè, awa supteráneo, akuifer (espasionan bou di tera kaminda awa ta kore pasa bai)",9,0,8,environmental,8,Impact,1
 More wear and tear of buildings and foundations,Meer slijtage van gebouwen en funderingen,Mas deterioro di edifisio i fundeshi,10,0,8,economic,6,Hazard,
 "Threath to salt pans, salinas and caves",Bedreiging van zoutpannen en grotten,Menasa pa saliña i kueba  ,11,0,1,environmental,8,Hazard,1
 Loss of land; displacement of people and functions.,Verlies van land: verdrijving van mensen en functies.,Pérdida di tereno: hende- i funshonnan desaloká,12,0,6,socio,8,Impact,1
-Reduction water quantity and quality ,Vermindering van waterkwantiteit en -kwaliteit ,Ménos kantidat i kalidat di awa,13,0,6,socio,8,Impact,1
-Flooded land will cause pollution of the sea and seabeds ,Ondergelopen land zal vervuiling van zee en zeebodems veroorzaken ,Tera inundá ta hiba shushi laman i kontaminá fondo di laman,14,0,6,environmental,8,Impact,1
+Flooded land will cause pollution of the sea and seabeds ,Ondergelopen land zal vervuiling van zee en zeebodems veroorzaken ,Tera inundá ta hiba shushi laman i kontaminá fondo di laman,13,0,6,environmental,8,Impact,1
+Increase in waterborne of vector born diseases,,,14,0,6,socio,8,Impact,1
+Relocation of critical infrastructure (CBA/HOH/Airport),,,15,0,6,economic,8,Impact,1
+Revision of construction and design standards,,,16,0,6,economic,8,Impact,1
+Higher storm surges and increased risk of Tsunamis,,,17,0,1,,8,Hazard,1
