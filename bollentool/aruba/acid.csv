@@ -1,14 +1,14 @@
-﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
-Caribbean Sea is getting warmer and more acid,Caribische Zee wordt warmer en zuurder,Laman Karibe su awa ta bira mas kayente i mas zür,1,0,,,,Theme,
-All species with calcereous skeleton at risk,"Alle diersoorten met kalkskelet in gevaar, minder plankton","Tur animal ku skelèt di kalki ta den peliger, tin ménos planktòn",2,0,1,environmental,0,Impact,1
-"More deseases, viruses, bacteria (coral disease)","Evolutie / verspreiding ziektes, virussen, bacteriën","Evolushon i plamamentu di malesa, virùs i bakteria",3,0,1,environmental,0,Impact,1
-More invasive species (e.g. lion fish),Meer invasieve soorten (bijv. koraalduivel),Mas espesie invasivo (por ehèmple lionfish),4,0,1,environmental,0,Impact,1
-Sargassum growth and algae blooms,Groei van Sargassum (zeewier),Kresemntu di sargaso (alga),5,0,1,environmental,0,Impact,1
-Loss of mangroves,Verlies van mangroven,Pérdida di palu di mangel,6,0,1,environmental,0,Impact,1
-Loss of marine biodiversity,"Verlies van biodiversiteit in de zee, verlies van natuurlijke kustbescherming","Pérdida di biodiversidat den laman, pérdida di protekshon natural kantu di laman",7,0,1,environmental,0,Impact,0
-Decline in coral reefs,Afname van koraalriffen,Desminuishon di ref di koral,8,0,7,environmental,0,Impact,0
-Collapse of specific commercial fish species,Ineenstorting van specifieke commerciële vissoorten,Benta di piská ku balor komersial na peliger,9,0,7,economic,0,Impact,0
-Decline in tourism and cruises,Afname van toerisme en cruises,Ménos turismo i ménos barku di turista,10,0,7,economic,0,Impact,0
-Decline in coastal protection (because of coral reef loss),Afname van kustbescherming (door verlies van koraalriffen),Pérdida di protekshon di kosta (ref di koral ta disparsé),11,0,8,socio,0,Impact,0
-Sea grass loss,Verlies van zeegras,,12,0,1,environmental,0,Impact,1
-Economic losses and large impact for locals,Economische schade en grote impact voor de lokale bevolking,,13,0,9,economic,0,Imapct,1
+﻿description,beschrijving,descripcion,descripcion CU,id,likelyness,parent,sector,severity,type,workshop
+Caribbean Sea is getting warmer and more acid,Caribische Zee wordt warmer en zuurder,Awa di Laman Caribe ta bira más cayente i más zür,Laman Karibe su awa ta bira mas kayente i mas zür,1,0,,,,Theme,
+All species with calcereous skeleton at risk,"Alle diersoorten met kalkskelet in gevaar, minder plankton","Tur animal cu escelet di calci ta den peliger, tin ménos plancton","Tur animal ku skelèt di kalki ta den peliger, tin ménos planktòn",2,0,1,environmental,0,Impact,1
+"More deseases, viruses, bacteria (coral disease)","Evolutie / verspreiding ziektes, virussen, bacteriën","Evolushon i propagashon di enfermedat, vírus i bacteria","Evolushon i plamamentu di malesa, virùs i bakteria",3,0,1,environmental,0,Impact,1
+More invasive species (e.g. lion fish),Meer invasieve soorten (bijv. koraalduivel),Más especie invasivo (por ehempel lionfish),Mas espesie invasivo (por ehèmple lionfish),4,0,1,environmental,0,Impact,1
+Sargassum growth and algae blooms,Groei van Sargassum (zeewier),Crecemento di sargaso (alga),Kresemntu di sargaso (alga),5,0,1,environmental,0,Impact,1
+Loss of mangroves,Verlies van mangroven,Pérdida di palo di mangel,Pérdida di palu di mangel,6,0,1,environmental,0,Impact,1
+Loss of marine biodiversity,"Verlies van biodiversiteit in de zee, verlies van natuurlijke kustbescherming","Pérdida di biodiversidat den laman, pérdida di proteccion natural rònt di costa","Pérdida di biodiversidat den laman, pérdida di protekshon natural kantu di laman",7,0,1,environmental,0,Impact,0
+Decline in coral reefs,Afname van koraalriffen,Disminushon di rif di coral,Desminuishon di ref di koral,8,0,7,environmental,0,Impact,0
+Collapse of specific commercial fish species,Ineenstorting van specifieke commerciële vissoorten,Benta di piscá cu balor comercial ta den peliger,Benta di piská ku balor komersial na peliger,9,0,7,economic,0,Impact,0
+Decline in tourism and cruises,Afname van toerisme en cruises,Ménos turismo i ménos barcunan di turista,Ménos turismo i ménos barku di turista,10,0,7,economic,0,Impact,0
+Decline in coastal protection (because of coral reef loss),Afname van kustbescherming (door verlies van koraalriffen),Pérdida di proteccion di costa (rif di coral ta disparsé),Pérdida di protekshon di kosta (ref di koral ta disparsé),11,0,8,socio,0,Impact,0
+Sea grass loss,Verlies van zeegras,Pérdida di yerba di lama,,12,0,1,environmental,0,Impact,1
+Economic losses and large impact for locals,Economische schade en grote impact voor de lokale bevolking,Dañonan económico i gran impacto pa e poblashon local,,13,0,9,economic,0,Imapct,1
