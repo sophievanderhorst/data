@@ -1,26 +1,26 @@
-﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
-It is getting warmer,Het wordt warmer,Ta hasi mas kalor,1,0,,,0,Theme,0
-Higher average temperatures,Hogere gemiddelde temperaturen,Oumento di temperatura promedio,2,0,1,,0,Hazard,0
-Loss of intangible cultural heritage ,Verlies van immaterieel cultureel erfgoed,Pèrdida di patrimonio kultural intangibel,3,0,2,socio,0,Impact,0
-Increase in invasive species,Toename van invasieve soorten,Kresementu di espesie invasivo ,4,0,2,environmental,0,Impact,0
-"Threat to bird species, bird migration, and (gender of) turtles",Bedreiging van vijvers en vogelsoorten,Menasa pa veiver i para,5,0,2,environmental,0,Impact,0
-Reduced outdoor activities and (labor) productivity,,,6,0,2,economic,0,Impact,0
-Higher sea temperatures,,,8,0,2,environmental,0,Impact,1
-"Infectious diseases (for example, mosquitos)",Besmettelijke ziekten (muggen),Malesa kontagioso (sangura),9,0,2,socio,0,Impact,0
-More extreme temperatures,Extremere temperaturen,Temperatura ekstremo ,10,0,1,,0,Hazard,0
-Outage of vital infrastructure services,,,11,0,10,socio,0,Impact,1
-"Increase in power outages, maintenance cost and cooling",Toename stroomuitval door oververhitting motor,Koriente ta bai ku mas frekuensia pasobra motornan ta kalentá di mas,12,0,10,economic,0,Impact,0
-"Increase in costs from energy, drinking water, and fuel","Hogere kosten voor energie, drinkwater en brandstof","Gastu mas haltu di koriente, awa i gasolin",13,0,10,economic,0,Impact,0
-Loss of biodiversity,Verlies van biodiversiteit,Pérdida di biodiversidat,14,0,10,environmental,0,Impact,1
-"Heat-related stress, mental health + domestic violence","Stress, geestelijke gezondheid, huiselijk geweld","Strès relatá na kalor, salú mental i violensia na kas",15,0,10,socio,0,Impact,0
-"Loss of agriculture, shift to new forms","Verlies van landbouw, verschuiving naar nieuwe vormen","Ménos agrikultura, desplaso pa maneranan nobo pa kultivá ",16,0,10,economic,0,Impact,1
-"Health problems, CVA, Chronic diseases, vulnerable groups",Gezondheids- problemen,Problemanan ku salú ,17,0,10,socio,0,Impact,0
-Negative impact on tourism and hospitality,Negatief effect op toerisme en horeca,Efekto negativo riba turismo i horeca,18,0,10,economic,0,Impact,1
-Discomfort pets and domestic animals,,,19,0,10,environmental,0,Impact,1
-Desertification of land,,,20,0,10,environmental,0,Impact,1
-Pressure on the health care system,,,21,0,10,socio,0,Impact,1
-Increase in supply chain/costs because of shipping costs,,,22,0,2,economic,0,Impact,1
-"Sports practice, cultural activities, carnaval",,,23,0,10,socio,0,Impact,1
-"Hindered learning, education (schools)",,,24,0,10,socio,0,Impact,1
-Higher mortality,,,25,0,10,socio,0,Impact,0
-Revision of construction design standards ,,,26,0,10,economic,0,Impact,0
+﻿description,beschrijving,descripcion,descripcion CUR,id,likelyness,parent,sector,severity,type,workshop
+It is getting warmer,Het wordt warmer,,Ta hasi mas kalor,1,0,,,0,Theme,0
+Higher average temperatures,Hogere gemiddelde temperaturen,,Oumento di temperatura promedio,2,0,1,,0,Hazard,0
+Loss of intangible cultural heritage ,Verlies van immaterieel cultureel erfgoed,,Pèrdida di patrimonio kultural intangibel,3,0,2,socio,0,Impact,0
+Increase in invasive species,Toename van invasieve soorten,,Kresementu di espesie invasivo ,4,0,2,environmental,0,Impact,0
+"Threat to bird species, bird migration, and (gender of) turtles",Bedreiging van vijvers en vogelsoorten,,Menasa pa veiver i para,5,0,2,environmental,0,Impact,0
+Reduced outdoor activities and (labor) productivity,Minder buitenactiviteiten en (arbeids)productiviteit,,,6,0,2,economic,0,Impact,0
+Higher sea temperatures,Hogere zeetemperaturen,,,8,0,2,environmental,0,Impact,1
+"Infectious diseases (for example, mosquitos)",Besmettelijke ziekten (muggen),,Malesa kontagioso (sangura),9,0,2,socio,0,Impact,0
+More extreme temperatures,Extremere temperaturen,,Temperatura ekstremo ,10,0,1,,0,Hazard,0
+Outage of vital infrastructure services,Uitval van vitale infrastructuurdiensten,,,11,0,10,socio,0,Impact,1
+"Increase in power outages, maintenance cost and cooling",Toename stroomuitval door oververhitting motor,,Koriente ta bai ku mas frekuensia pasobra motornan ta kalentá di mas,12,0,10,economic,0,Impact,0
+"Increase in costs from energy, drinking water, and fuel","Hogere kosten voor energie, drinkwater en brandstof",,"Gastu mas haltu di koriente, awa i gasolin",13,0,10,economic,0,Impact,0
+Loss of biodiversity,Verlies van biodiversiteit,,Pérdida di biodiversidat,14,0,10,environmental,0,Impact,1
+"Heat-related stress, mental health + domestic violence","Stress, geestelijke gezondheid, huiselijk geweld",,"Strès relatá na kalor, salú mental i violensia na kas",15,0,10,socio,0,Impact,0
+"Loss of agriculture, shift to new forms","Verlies van landbouw, verschuiving naar nieuwe vormen",,"Ménos agrikultura, desplaso pa maneranan nobo pa kultivá ",16,0,10,economic,0,Impact,1
+"Health problems, CVA, Chronic diseases, vulnerable groups",Gezondheids- problemen,,Problemanan ku salú ,17,0,10,socio,0,Impact,0
+Negative impact on tourism and hospitality,Negatief effect op toerisme en horeca,,Efekto negativo riba turismo i horeca,18,0,10,economic,0,Impact,1
+Discomfort pets and domestic animals,Ongemak voor huisdieren en vee,,,19,0,10,environmental,0,Impact,1
+Desertification of land,Verwoestijning van land,,,20,0,10,environmental,0,Impact,1
+Pressure on the health care system,Druk op het zorgsysteem,,,21,0,10,socio,0,Impact,1
+Increase in supply chain/costs because of shipping costs,Stijgende keten- en productiekosten door hogere transportkosten,,,22,0,2,economic,0,Impact,1
+"Sports practice, cultural activities, carnaval","Belemmering van sport, culturele activiteiten, carnaval",,,23,0,10,socio,0,Impact,1
+"Hindered learning, education (schools)","Moeilijker leren, onderwijs (scholen)",,,24,0,10,socio,0,Impact,1
+Higher mortality,Hogere sterfte,,,25,0,10,socio,0,Impact,0
+Revision of construction design standards ,Herziening van bouw- en ontwerpstandaarden,,,26,0,10,economic,0,Impact,0
