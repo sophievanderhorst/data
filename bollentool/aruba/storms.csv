@@ -3,15 +3,15 @@
 Erosion and washing away of soil,Erosie en wegspoelen van grond,Erosion i desaparese di tera,2,,1,,,Hazard,
 "Damages to land (e.g. beach erosion,crop damage)","Schade aan land (bijv. omvallende bomen, wegspoelende wegen)","Daño na tera (por ehempel erosion di playa, daño na cosecha)",3,0,2,economic,0,Impact,0
 Negative impacts on the shallow reef corals and other organisms,Negatieve effecten op ondiepe koraalriffen en andere organismen,Efecto negativo riba rif di coral abou i otro organismo,4,0,2,environmental,0,impact,0
-Shore/sea bird breeding areas will disappear ,Broedgebieden van kust- en zeevogels verdwijnen,Área di cria di para di costa i laman lo desaparesé,6,0,2,environmental,0,Impact,1
+Shore/sea bird breeding areas will disappear ,Broedgebieden van kust- en zeevogels verdwijnen,Área di cria di para di costa i laman lo desaparese,6,0,2,environmental,0,Impact,1
 Biodiversity around salinas will drop,Biodiversiteit rond saliñas neemt af,Biodiversidad rond di saliña lo baha,7,0,2,environmental,0,Impact,1
-Infrastructure and building damage,Schade aan infrastructuur en gebouwen,Daño na infrastructura i edifisio,8,0,2,economic,0,Impact,1
+Infrastructure and building damage,Schade aan infrastructuur en gebouwen,Daño na infrastructura i edificio,8,0,2,economic,0,Impact,1
 Tourism – water quality/coastal damage,Toerisme – slechtere waterkwaliteit / schade aan de kust,Turismo – calidad di awa i daño na costa,9,0,2,economic,0,Impact,1
-Flash floods,Stortvloeden,Inundashon repentino,10,0,1,,0,Hazard,
+Flash floods,Stortvloeden,Inundacion repentino,10,0,1,,0,Hazard,
 Vector borne diseases / Water borne infections ,Door vectoren overgedragen ziekten / door water overgedragen infecties,Enfermedad transmiti pa sangura / infeccion transmiti pa awa,12,0,10,socio,0,Impact,1
 "Critical transportation disrupted: roads, airport seaport","Kritiek transport verstoord: wegen, luchthaven, zeehaven","Transportacion critico ta ser afecta: caminda, aeropuerto, puerto",13,0,10,economic,0,Impact,0
 Building damage,Schade aan gebouwen,Daño na edificio,14,0,10,economic,0,Impact,1
-Farm/livestock destruction,Vernietiging van landbouw en vee,Destruccion di agricultura i bestia,15,0,10,economic,0,Impact,1
+Farm/livestock destruction,Vernietiging van landbouw en vee,"Falta di suministra (cominda, material, provishonan)",15,0,10,economic,0,Impact,1
 Damage to trees,Schade aan bomen,Daño na palo i mata,16,0,10,environmental,0,Impact,1
 Sedimentation,Bezinking (sedimentatie),Sedimentacion,17,0,10,environmental,0,Impact,1
 Salinas changes,Veranderingen in saliñas,Cambio den saliña,18,0,10,environmental,0,Impact,1
@@ -21,12 +21,12 @@ Tourism decline,Daling in toerisme,Disminushon di turismo,23,0,20,economic,0,Imp
 Cultural heritage sites loss ,Verlies van cultureel erfgoed,Perdidanan di sitio di herencia cultural,24,0,20,socio,0,Impact,1
 Injury and loss of life,Letsel en verlies van mensenlevens,Herida i perdida di bida humano,26,0,20,socio,0,Impact,0
 Risks for critical health infrastructure,Risico’s voor vitale gezondheidsinfrastructuur,Riesgo pa infrastructura critico di salud,27,0,20,socio,0,Impact,0
-Damage buildings and infrastructure – Tourism and telecom,Schade aan gebouwen en infrastructuur – toerisme en telecom,Daño na edifisio i infrastructura – turismo i telecom,29,0,20,economic,0,Impact,0
+Damage buildings and infrastructure – Tourism and telecom,Schade aan gebouwen en infrastructuur – toerisme en telecom,Daño na edificio i infrastructura – turismo i telecom,29,0,20,economic,0,Impact,0
 Insurance fees increase or not able to insure,Hogere verzekeringspremies of geen verzekering mogelijk,Aumento di primanan di seguro of imposibel pa asigura,31,0,20,economic,0,Impact,1
-Loss of key biodiversity areas,Verlies van belangrijke biodiversiteitsgebieden,Pérdida di área clave di biodiversidad,32,0,20,environmental,0,Impact,1
-"Damage to coastal ecosystems, bird nesting ","Schade aan kustecosystemen, broedplaatsen van vogels","Daño na ekosistema costero, sitio di cria di para",33,0,20,environmental,0,Impact,1
+Loss of key biodiversity areas,Verlies van belangrijke biodiversiteitsgebieden,Perdida di area clave di biodiversidad,32,0,20,environmental,0,Impact,1
+"Damage to coastal ecosystems, bird nesting ","Schade aan kustecosystemen, broedplaatsen van vogels","Daño na ecosistema costero, sitio di cria di para",33,0,20,environmental,0,Impact,1
 "Shortages (food, supply, materials) ","Tekorten (voedsel, bevoorrading, materialen)","Falta di suministra (cominda, material, provishonan)",34,0,20,socio,0,Impact,1
 "Financial impacts - Health, reconstruction, and rebuilding expenses ","Financiële impact – kosten voor gezondheidszorg, herstel en wederopbouw","Impacto financiero – gasto di salud, reconstruccion i rebuild",35,0,20,economic,0,Impact,1
-Vegetation loss and soil loss,Verlies van vegetatie en bodem,Perdida di vegetashon i solo,36,0,2,environmental,0,Impact,1
+Vegetation loss and soil loss,Verlies van vegetatie en bodem,Perdida di vegetacion i solo,36,0,2,environmental,0,Impact,1
 Temporary labour impact ,Tijdelijke impact op arbeid,Impacto temporario riba trabou,37,0,20,economic,0,Impact,1
 Fisheries disrupted,Visserij verstoord,Pesca ta ser interrumpi,38,0,20,economic,0,Impact,1
