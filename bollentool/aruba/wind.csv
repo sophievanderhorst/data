@@ -1,19 +1,19 @@
-﻿description,beschrijving,descripcion,descripcion CUR,id,likelyness,parent,sector,severity,type,workshop
-Changing wind,Veranderende wind,Cambio den bientu,Kambio di bientu ,1,,,,0,Theme,
-Wind gusts,Windvlagen,Rafaga di bientu,Ráfaga di bientu ,2,,1,,0,Hazard,0
-Damage to buildings and infrastructure,Schade aan gebouwen en infrastructuur,Daño na edifisio i infrastructura,Daño na edifisio i infrastruktura,3,0,2,economic,0,Impact,0
-Low wind extremes,Extreem weinig wind,Ekstremonan di poco bientu,Falta ekstremo di bientu ,4,0,1,,0,Hazard,1
-Changing wind direction,Veranderende windrichting,Cambio den direkshon di bientu,Kambio di direkshon di bientu,5,0,1,,0,Hazard,0
-Increase in average wind speed,Toename van gemiddelde windsnelheid,Aumento den velocidad promedio di bientu,Oumento di velosidat promedio di bientu,6,0,1,,0,Hazard,0
-Increase in wind power,Toename in windkracht,Aumento den forsa di bientu,Mas forsa di bientu ku normal,7,0,6,economic,0,Impact,0
-Change in perceived ambient temperature ,Verandering in waargenomen gevoelstemperatuur,Cambio den temperatura ambiental sintí,,8,0,6,socio,0,Impact,1
-Nuisance from landfill/incinerator or industries,Hinder van vuilstort/verbrandingsoven of industrieën,Molestia for di deposito di basura / incinerador òf industria,,9,0,5,socio,0,Impact,1
-Impacts for airport and harbour operations ,Invloed op luchthaven- en havenactiviteiten,Efecto riba operashon di aeropuerto i haven,,10,0,5,economic,0,Impact,1
-Impact for boating anchorages and fisheries ,Impact op aanlegplaatsen en visserij,Impacto riba anclajenan di boto i pesca,,11,0,5,economic,0,Impact,1
-Ocean disruptions (waves) + interruptions in fishing activities,Verstoring op zee (golven) + onderbrekingen in visserij,Desordenenan den laman (ola) + interrumpshon den actividadnan di pesca,,12,0,5,environmental,0,Impact,1
-More mosquitos among humans,Meer muggen bij mensen,Mas moustico rond di hende,,13,0,4,socio,0,Impact,1
-"Cultural/social activities: flying kites, kitesurfing","Culturele/sociale activiteiten: vliegeren, kitesurfen","Aktividadnan cultural/social: bol’i vlieger, kitesurf",,14,0,6,socio,0,Impact,1
-Roofs flying ,Daken die wegvliegen,Daknan ta bula,,15,0,2,socio,0,Impact,1
-Dunes disruption,Verstoring van duinen,Desordenenan di dunan,,16,0,2,environmental,0,Impact,1
-Increase blowing beach sand ,Meer opwaaiend strandzand,Aumento di zandan cu ta bula riba playa,,17,0,2,socio,0,Impact,1
-More heat,Meer hitte,Mas calor,,18,0,4,socio,0,Impact,1
+﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
+Changing wind,Veranderende wind,Cambio den biento,1,,,,0,Theme,
+Wind gusts,Windvlagen,Rafaga di biento,2,,1,,0,Hazard,0
+Damage to buildings and infrastructure,Schade aan gebouwen en infrastructuur,Daño na edificio i infrastructura,3,0,2,economic,0,Impact,0
+Low wind extremes,Extreem weinig wind,Extermo di poco biento,4,0,1,,0,Hazard,1
+Changing wind direction,Veranderende windrichting,Cambio den direccion di biento,5,0,1,,0,Hazard,0
+Increase in average wind speed,Toename van gemiddelde windsnelheid,Aumento den velocidad promedio di biento,6,0,1,,0,Hazard,0
+Increase in wind power,Toename in windkracht,Aumento den forsa di biento,7,0,6,economic,0,Impact,0
+Change in perceived ambient temperature ,Verandering in waargenomen gevoelstemperatuur,Cambio den temperatura ambiental sinti,8,0,6,socio,0,Impact,1
+Nuisance from landfill/incinerator or industries,Hinder van vuilstort/verbrandingsoven of industrieën,Molestia for di deposito di basura / incinerador of industria,9,0,5,socio,0,Impact,1
+Impacts for airport and harbour operations ,Invloed op luchthaven- en havenactiviteiten,Efecto riba operacion di aeropuerto i haven,10,0,5,economic,0,Impact,1
+Impact for boating anchorages and fisheries ,Impact op aanlegplaatsen en visserij,Impacto riba anclajenan di boto i pesca,11,0,5,economic,0,Impact,1
+Ocean disruptions (waves) + interruptions in fishing activities,Verstoring op zee (golven) + onderbrekingen in visserij,Desordo den laman (ola) + interumpcion den actividadnan di pesca,12,0,5,environmental,0,Impact,1
+More mosquitos among humans,Meer muggen bij mensen,Mas sangura rond di hende,13,0,4,socio,0,Impact,1
+"Cultural/social activities: flying kites, kitesurfing","Culturele/sociale activiteiten: vliegeren, kitesurfen","Aktividadnan cultural/social: bol’i vlieger, kitesurf",14,0,6,socio,0,Impact,1
+Roofs flying ,Daken die wegvliegen,Daknan ta bula,15,0,2,socio,0,Impact,1
+Dunes disruption,Verstoring van duinen,Desordo di dunan,16,0,2,environmental,0,Impact,1
+Increase blowing beach sand ,Meer opwaaiend strandzand,Aumento di santo di beach cu ta bula riba playa,17,0,2,socio,0,Impact,1
+More heat,Meer hitte,Mas calor,18,0,4,socio,0,Impact,1

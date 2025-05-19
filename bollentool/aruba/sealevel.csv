@@ -1,16 +1,16 @@
-﻿description,beschrijving,descripcion,descripcion CUR,id,likelyness,parent,sector,severity,type,workshop
-The sea level is rising,De zeespiegel stijgt,Nivel di laman ta subi,Nivel di laman ta subi,1,,,,,Theme,0
-Beach erosion,Stranderosie,Erosión di playa,Eroshon di kosta,2,,1,,,Hazard,0
-Tourism revenue decrease,Daling van inkomsten uit toerisme,Menos ingreso di turismo,Ménos entrada prosedente di turismo,3,0,2,economic,9,Impact,0
-"Decrease in beach habitats (turtle laying areas, wetlands and mangroves)",Afname van strandhabitats,"Disminushon di hábitatnan riba playa (luga pa tortuga pone webu, mondinan i mangel)",Ménos lugá di biba i rekreá kantu di awa,4,0,2,environmental,8,Impact,0
-Coastal flooding,Overstroming vanuit zee,Inundashon di costa,Laman ta subi tera,5,0,1,,6,Hazard,0
-Permanently flooded buildings and infrastructure,Gebouwen en infrastructuur komen permanent onder water te staan,Edificionan i infrastructura permanentemente inunda,Edifisio i infrastruktura permanentemente bou di awa,6,0,5,economic,0,Impact,0
-Permanently flooded cultural heritage,Permanent overstroomd cultureel erfgoed,Herensia cultural permanentemente inunda,Herensia kultural permanentemente bou di awa,7,0,5,socio,8,Impact,0
-"Salt water intrusion, reduced water and soil quality",Verzilting,"Intrushon di awa salá, calidad di awa i tera ta baha",Salinisashon,8,0,1,,6,Hazard,1
-"Damage to crops, green structures, ground water, acquifers","Schade aan gewassen, groenstructuren, grondwater, watervoerende lagen","Daño na cultivo, estrukturanan berdè, awa di fondo i acuífero","Daño na mata, áreanan bèrdè, awa supteráneo, akuifer (espasionan bou di tera kaminda awa ta kore pasa bai)",9,0,8,environmental,8,Impact,1
-"Threath to salt pans, salinas and caves",Bedreiging van zoutpannen en grotten,"Amenasa pa saliñas, pan di sal i cueva",Menasa pa saliña i kueba  ,11,0,1,environmental,8,Impact,0
-Loss of land; displacement of people and functions.,Verlies van land: verdrijving van mensen en functies,Pérdida di tera; desplazamiento di hende i funshonnan,Pérdida di tereno: hende- i funshonnan desaloká,12,0,5,socio,8,Impact,1
-Increase in waterborne or vector born diseases,Toename van via water of vectoren overgedragen ziekten,Aumento di malesa transmití via awa òf vector,,14,0,5,socio,8,Impact,1
-Relocation of critical infrastructure (CBA/HOH/ Airport),Verplaatsen van kritieke infrastructuur (CBA/HOH/Luchthaven),Relocalisashon di infrastructura crítico (CBA/HOH/Aeropuerto),,15,0,5,economic,8,Impact,1
-Revision of construction and design standards,Herziening van bouw- en ontwerpstandaarden,Revishon di estándar di construccion i diseño,,16,0,5,economic,8,Impact,1
-Higher storm surges and increased risk of Tsunamis,Hogere stormvloeden en verhoogd risico op tsunami's,Subida di ola grandi (storm surge) i riesgu elevá pa tsunami,,17,0,1,,8,Hazard,1
+﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
+The sea level is rising,De zeespiegel stijgt,Nivel di laman ta subi,1,,,,,Theme,0
+Beach erosion,Stranderosie,Erosion di playa,2,,1,,,Hazard,0
+Tourism revenue decrease,Daling van inkomsten uit toerisme,Menos ingreso di turismo,3,0,2,economic,9,Impact,0
+"Decrease in beach habitats (turtle laying areas, wetlands and mangroves)",Afname van strandhabitats,"Disminushon di habitad riba playa (luga pa tortuga pone webu, mondinan i mangel)",4,0,2,environmental,8,Impact,0
+Coastal flooding,Overstroming vanuit zee,Inundacion di costa,5,0,1,,6,Hazard,0
+Permanently flooded buildings and infrastructure,Gebouwen en infrastructuur komen permanent onder water te staan,Edificionan i infrastructura permanentemente inunda,6,0,5,economic,0,Impact,0
+Permanently flooded cultural heritage,Permanent overstroomd cultureel erfgoed,Herensia cultural permanentemente inunda,7,0,5,socio,8,Impact,0
+"Salt water intrusion, reduced water and soil quality",Verzilting,"Intrushon di awa salo, calidad di awa i tera ta baha",8,0,1,,6,Hazard,1
+"Damage to crops, green structures, ground water, acquifers","Schade aan gewassen, groenstructuren, grondwater, watervoerende lagen","Daño na cultivo, estrukturanan berde, awa di fondo i acuifero",9,0,8,environmental,8,Impact,1
+"Threath to salt pans, salinas and caves",Bedreiging van zoutpannen en grotten,"Amenasa pa saliñas, pan di sal i cueva",11,0,1,environmental,8,Impact,0
+Loss of land; displacement of people and functions.,Verlies van land: verdrijving van mensen en functies,Perdida di tera; desplazamiento di hende i funcionan,12,0,5,socio,8,Impact,1
+Increase in waterborne or vector born diseases,Toename van via water of vectoren overgedragen ziekten,Aumento di malesa transmiti via awa of vector,14,0,5,socio,8,Impact,1
+Relocation of critical infrastructure (CBA/HOH/ Airport),Verplaatsen van kritieke infrastructuur (CBA/HOH/Luchthaven),Relocalisashon di infrastructura critico (CBA/HOH/Aeropuerto),15,0,5,economic,8,Impact,1
+Revision of construction and design standards,Herziening van bouw- en ontwerpstandaarden,Revicion di estandar di construccion i diseño,16,0,5,economic,8,Impact,1
+Higher storm surges and increased risk of Tsunamis,Hogere stormvloeden en verhoogd risico op tsunami's,Subida di ola grandi (storm surge) i riesgu eleva pa tsunami,17,0,1,,8,Hazard,1

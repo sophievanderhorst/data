@@ -1,19 +1,19 @@
-﻿description,beschrijving,descripcion,descripcion CUR,id,likelyness,parent,sector,severity,type,workshop
-It is getting drier,Het wordt droger,Ta bira más seco  ,Tin mas sekura ,1,,,,,Theme,0
-"Prolonged drought, salt water intrusion, increased evaporation","Langdurige droogte, zoutindringing, toegenomen verdamping","Seca prolongá, intrushon di awa salá, evaporashon aumentá  ","Sekura pa largu tempu, mas salu ta penetrá atmósfera, tin mas humedat den airu",2,,1,,,Hazard,0
-Increase in cost of landscaping & irrigation,Stijgende kosten voor onderhoud en irrigatie,Aumento den gasto pa paisajismo i irrigashon  ,,3,,2,economic,,,1
-Reduced Wetland Ecosystem Services,Verminderde ecosysteemdiensten van wetlands,Menos servísio ecológiko di mondi wetland  ,,4,,2,environmental,,,1
-Water demand increase,De vraag naar water neemt toe,Aumento den demanda di awa  ,Mas demanda pa awa,5,0,2,socio,,Impact,1
-Loss of terrestrial biodiversity,Verlies van biodiversiteit op land,Pérdida di biodiversidat riba tera  ,Ménos biodiversidat den kultivo ,6,0,2,environmental,,Impact,0
-Increase in food prices,Stijgende voedselprijzen,Aumento di preis di cominda  ,,7,,2,economic,,,1
-Reduced food security (less local production),Verminderde voedselzekerheid (minder lokale productie),Menos seguridad alimentario (menos produccion local)  ,,8,,2,economic,,,1
-Crop failure,Mislukte oogsten,Fracasamentu di cosecha  ,Kosecha malográ,9,0,2,economic,,Impact,0
-Limited freshwater resources,Beperkte zoetwaterbronnen,Recurso di awa frescu ta limitá  ,Awa dushi limitá,10,0,2,socio,,Impact,0
-Bushfire,Natuurbranden,Candela grandi den naturaleza  ,Kandela den naturalesa,11,0,1,,,Hazard,0
-Damage to housing and infrastructure,Schade aan huizen en infrastructuur,Daño na cas i infrastructura  ,,12,,11,economic,,Impact,1
-Damage to natural areas,Schade aan natuurgebieden,Daño na área natural  ,Daño na áreanan den naturalesa,13,0,11,environmental,,Impact,1
-Health impacts and damage,Gevolgen en schade voor de gezondheid,Efectonan pa salú i daño personal  ,Konsekuensia i daño na salú,14,0,11,socio,,Impact,0
-Dry soil,Droge aarde,Tera seco  ,,15,,1,,,Hazard,1
-More rainwater runoff,Meer regenwaterafvoer,Más awa di yuvia ta core afó  ,,16,,15,environmental,,Impact,1
-Less groundwater replenishment,Minder aanvulling van grondwater,Menos replenishment di awa den suelonan  ,,17,,15,environmental,,Impact,1
-"Reduced air quality, more dust","Slechtere luchtkwaliteit, meer stof","Calidat di aire ta baha, más polbu",,18,,15,socio,,Impact,1
+﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
+It is getting drier,Het wordt droger,Ta bira mas seco  ,1,,,,,Theme,0
+"Prolonged drought, salt water intrusion, increased evaporation","Langdurige droogte, zoutindringing, toegenomen verdamping","Seca prolonga, intrushon di awa sala, evaporashon aumenta",2,,1,,,Hazard,0
+Increase in cost of landscaping & irrigation,Stijgende kosten voor onderhoud en irrigatie,Aumento den gasto pa paisajismo i irrigashon  ,3,,2,economic,,,1
+Reduced Wetland Ecosystem Services,Verminderde ecosysteemdiensten van wetlands,Menos servicio ecologico di mondi wetland  ,4,,2,environmental,,,1
+Water demand increase,De vraag naar water neemt toe,Aumento den demanda di awa  ,5,0,2,socio,,Impact,1
+Loss of terrestrial biodiversity,Verlies van biodiversiteit op land,Perdida di biodiversidad riba tera  ,6,0,2,environmental,,Impact,0
+Increase in food prices,Stijgende voedselprijzen,Aumento di preis di cominda  ,7,,2,economic,,,1
+Reduced food security (less local production),Verminderde voedselzekerheid (minder lokale productie),Menos seguridad alimentario (menos produccion local)  ,8,,2,economic,,,1
+Crop failure,Mislukte oogsten,Fracaso di cosecha  ,9,0,2,economic,,Impact,0
+Limited freshwater resources,Beperkte zoetwaterbronnen,Recurso di awa frescu ta limita,10,0,2,socio,,Impact,0
+Bushfire,Natuurbranden,Candela grandi den naturaleza  ,11,0,1,,,Hazard,0
+Damage to housing and infrastructure,Schade aan huizen en infrastructuur,Daño na cas i infrastructura  ,12,,11,economic,,Impact,1
+Damage to natural areas,Schade aan natuurgebieden,Daño na area natural  ,13,0,11,environmental,,Impact,1
+Health impacts and damage,Gevolgen en schade voor de gezondheid,Efectonan pa salu i daño personal  ,14,0,11,socio,,Impact,0
+Dry soil,Droge aarde,Tera seco  ,15,,1,,,Hazard,1
+More rainwater runoff,Meer regenwaterafvoer,Mas awa di yuvia ta core afo,16,,15,environmental,,Impact,1
+Less groundwater replenishment,Minder aanvulling van grondwater,Menos replenishment di awa den suelonan  ,17,,15,environmental,,Impact,1
+"Reduced air quality, more dust","Slechtere luchtkwaliteit, meer stof","Calidad di aire ta baha, mas polbu",18,,15,socio,,Impact,1
