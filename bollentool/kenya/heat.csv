@@ -1,23 +1,23 @@
 ﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
 It is getting warmer,,,1,,,,,Theme,0
 Increase of average temperatures,,,2,,1,,,Hazard,0
-"Increased evaporation, soil water depletion and irrigation challenges",,,3,,2,socio,,Impact,0
-"Higher water demand and more irrigation, higher cost",,,4,,2,environmental,,Impact,1
+"Increased evaporation, soil water depletion and irrigation challenges",,,3,,2,economic,,Impact,0
+"Higher water demand and more irrigation, higher cost",,,4,,2,economic,,Impact,1
 Wetlands and riverine systems converted to other ecosystems,,,5,,2,environmental,,Impact,0
 Change in vegetation leading to animal migration,,,6,,2,environmental,,Impact,1
 Change in growing seasons,,,7,,2,economic,,Impact,0
-"More favorable conditions for  pests and diseases, higher insecticide use",,,8,,2,socio,,Impact,0
-Shorter maturity period (advantageous),,,9,,2,socio,,Impact,1
+"More favorable conditions for  pests and diseases, higher insecticide use",,,8,,2,economic,,Impact,0
+Shorter maturity period (advantageous),,,9,,2,economic,,Impact,1
 More extreme temperatures,,,10,,1,,,Hazard,0
 Change in crop suitability,,,11,,10,economic,,Impact,0
 "Post-harvest losses, more cooled storage needed",,,12,,10,economic,,Impact,1
-Threat for the health of farmers,,,13,,10,environmental,,Impact,0
-"Homes get too hot, adaptation is needed ",,,14,,10,environmental,,Impact,1
+Threat for the health of farmers,,,13,,10,socio,,Impact,0
+"Homes get too hot, adaptation is needed ",,,14,,10,socio,,Impact,1
 Heat-related mortality,,,15,,10,socio,,Impact,0
 "Less working hours, economic loss",,,16,,10,economic,,Impact,0
-"Heat stress livestock, more parasites, diseases, and more susceptible  to stress",,,17,,10,socio,,Impact,0
-Unpredictable weather patterns make it difficult to plan,,,18,,10,socio,,Impact,0
+"Heat stress livestock, more parasites, diseases, and more susceptible  to stress",,,17,,10,economic,,Impact,0
+Unpredictable weather patterns make it difficult to plan,,,18,,10,economic,,Impact,0
 Crop stress and reduced yields,,,19,,10,economic,,Impact,0
 Higher surface water temperature,,,20,,1,,,Hazard,0
 "Loss of fish due to reduced oxygen levels, they are stuck in cages ",,,21,,20,economic,,Impact,1
-Reduced water quality,,,22,,20,economic,,Impact,0
+Reduced water quality,,,22,,20,environmental,,Impact,0
