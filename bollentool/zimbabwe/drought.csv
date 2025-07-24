@@ -4,26 +4,26 @@ Changing rainfall patterns,,,2,,1,,,Hazard,
 Shift in planting/harvesting seasons,,,3,,2,socio,,Impact,0
 Loss of indigenous species,,,4,,2,environmental,,Impact,0
 Reduction of (agro-) ecological productivity,,,5,,2,economic,,Impact,0
-Loss of crop habitat,,,6,,2,socio,,Impact,1
-"Decreased maturity period, may lead to two cropping seasons",,,7,,2,economic,,Impact,1
-Increase of periods with lower river discharge,,,8,,1,,,Hazard,1
-Affected hydropower generation,,,9,,8,economic,,Impact,0
-Potential to build infrastructure,,,10,,8,socio,,Impact,1
-Low ground water levels and dry soils,,,11,,1,socio,,Hazard,0
-Lower crop yields,,,12,,11,economic,,Impact,0
-Increased disease and pests,,,13,,11,economic,,Impact,1
-"Decreased fish population, price increase",,,14,,11,economic,,Impact,1
-"Environmental degradation, loss of biodiversity",,,15,,11,environmental,,Impact,0
-More extreme drought,,,16,,1,,,Hazard,
-Invasion of new harmful species,,,17,,16,economic,,Impact,1
-Soil erosion,,,18,,16,economic,,Impact,1
-Forest fires,,,19,,16,economic,,Impact,1
-"Reduced  recharge into groundwater reservoirs, dried wells",,,20,,16,socio,,Impact,0
-Increased vulnerbility and economic hardship smallholder  farmers,,,21,,16,economic,,Impact,0
-Drink water shortage for live stock,,,22,,16,economic,,Impact,0
-"Yield increase of less sensitive  crops such as cassava, peas and groundnuts (CO2 fertilisation)",,,23,,16,economic,,Impact,0
-Yield decline of drought-sensitive crops such as maize and millet,,,24,,16,economic,,Impact,0
-Increase in food prices,,,25,,16,economic,,Impact,1
-Human wildlife conflicts and insecurity,,,26,,16,socio,,Impact,1
-Rural migration,,,27,,16,socio,,Impact,0
-Impact on agro-processing industries,,,28,,16,economic,,Impact,0
+New pests and diseases,,,6,,2,economic,,Impact,1
+Increase of periods with lower river discharge,,,7,,1,,,Hazard,1
+Affected hydropower generation,,,8,,7,economic,,Impact,0
+Less water for irrigation,,,9,,7,economic,,Impact,1
+Low ground water levels and dry soils,,,10,,1,socio,,Hazard,0
+Lower crop yields,,,11,,10,economic,,Impact,0
+More drilling of boreholes,,,12,,10,economic,,Impact,1
+"Increase in food prices, more import",,,13,,10,economic,,Impact,1
+Hunger and poverty,,,14,,13,socio,,Impact,1
+"Environmental degradation, loss of biodiversity",,,15,,10,environmental,,Impact,0
+Conflicts,,,16,,10,socio,,Impact,1
+More extreme drought,,,17,,1,,,Hazard,
+Less people venturing into crop and livestock production ,,,18,,17,economic,,Impact,1
+Wildfires,,,19,,17,economic,,Impact,0
+"Reduced  recharge into groundwater reservoirs, dried wells",,,20,,17,socio,,Impact,0
+Increased vulnerbility and economic hardship smallholder  farmers,,,21,,17,economic,,Impact,0
+"More crime, drugtrafficking, disease, school drop-out",,,22,,21,,,,1
+Drink water shortage for live stock,,,23,,17,economic,,Impact,0
+"Yield increase of less sensitive  crops such as cassava, peas and groundnuts (CO2 fertilisation)",,,24,,17,economic,,Impact,0
+Yield decline of drought-sensitive crops such as maize and millet,,,25,,17,economic,,Impact,0
+Rural migration,,,26,,17,socio,,Impact,0
+"More pollution in urban areas, pressure on resources",,,27,,26,,,,
+Impact on agro-processing industries,,,28,,17,economic,,Impact,0
