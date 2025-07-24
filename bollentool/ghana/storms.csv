@@ -17,5 +17,7 @@ Crop damage,,,15,,14,economic,,Impact,
 Flooding of rivers,,,16,,1,,,Hazard,0
 Loss of human life,,,17,,16,socio,,Impact,1
 Damaged crops/homes/livestock/infrastructure,,,18,,16,economic,,Impact,
-Incresed soil fertility,,,19,,16,economic,,,
-Disease outbreak,,,20,,16,socio,,,
+Incresed soil fertility,,,19,,16,economic,,Impact,
+Disease outbreak,,,20,,16,socio,,Impact,
+Post harvest losses,,,21,,2,economic,,Impact,
+Food insecurity,,,22,,5,socio,,Impact,
