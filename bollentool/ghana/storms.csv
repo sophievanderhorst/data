@@ -3,21 +3,21 @@
 Increase in heavy rainfall events,,,2,,1,,,Hazard,0
 Water damage to homes,,,3,,2,socio,,Impact,0
 Loss of livestock,,,4,,2,economic,,Impact,0
-Flood damage to crops,,,5,,2,economic,,Impact,1
+Flood damage to crops,,,5,,2,economic,,Impact,0
 Damage to infrastructure,,,6,,2,economic,,Impact,0
-Soil erosion,,,7,,2,socio,,Impact,1
+Soil erosion,,,7,,2,socio,,Impact,0
 Nutrient depletion,,,8,,2,economic,,Impact,0
 Crop diseases and pest infestations,,,9,,2,economic,,Impact,0
 Increase in storm intensity,,,10,,1,,,Hazard,0
-Damage to buildings and infrastructure,,,11,,10,economic,,Impact,0
+Damage to buildings and infrastructure,,,11,,10,economic,,Impact,1
 Changing rainfall patterns,,,12,,1,,,Hazard,0
 Shift in planting/harvesting seasons,,,13,,12,economic,,Impact,0
 "More other extremes (hail, lightning)",,,14,,1,,,Hazard,0
-Crop damage,,,15,,14,economic,,Impact,
+Crop damage,,,15,,14,economic,,Impact,0
 Flooding of rivers,,,16,,1,,,Hazard,0
 Loss of human life,,,17,,16,socio,,Impact,1
-Damaged crops/homes/livestock/infrastructure,,,18,,16,economic,,Impact,
-Incresed soil fertility,,,19,,16,economic,,Impact,
-Disease outbreak,,,20,,16,socio,,Impact,
-Post harvest losses,,,21,,2,economic,,Impact,
-Food insecurity,,,22,,5,socio,,Impact,
+Damaged crops/homes/livestock/infrastructure,,,18,,16,economic,,Impact,0
+Increased soil fertility,,,19,,16,economic,,Impact,1
+Disease outbreak,,,20,,16,socio,,Impact,1
+Post harvest losses,,,21,,2,economic,,Impact,1
+Food insecurity,,,22,,5,socio,,Impact,1
