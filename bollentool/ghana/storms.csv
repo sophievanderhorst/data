@@ -1,0 +1,29 @@
+﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
+"Storms, rains are intensifying",,,1,,,,,Theme,
+Increase in heavy rainfall events,,,2,,1,,,Hazard,0
+Water damage to homes,,,3,,2,socio,,Impact,0
+Loss of livestock,,,4,,2,economic,,Impact,0
+Migration to higher grounds and cities,,,5,,2,socio,,Impact,1
+Loss of infrastructure,,,6,,2,economic,,Impact,0
+More waterborne diseases,,,7,,2,socio,,Impact,0
+Land slides and soil erosion,,,8,,2,socio,,Impact,1
+Nutrient runoff and land degredation,,,9,,2,economic,,Impact,0
+Crop diseases and pest infestations,,,10,,2,economic,,Impact,0
+Human wildlife conflict,,,11,,2,environmental,,Impact,1
+Increase in storm intensity,,,12,,1,,,Hazard,0
+Salt water intrusion in freshwater (especially in aquifers),,,13,,12,environmental,,Impact,0
+Average increase in precipitation,,,14,,1,,,Hazard,0
+Increased crop yields,,,15,,14,economic,,Impact,0
+Groundwater recharge,,,16,,14,environmental,,Impact,1
+Hydropower opportunities,,,17,,14,economic,,Impact,1
+Rainfall harvesting opportunities,,,18,,14,economic,,Impact,1
+"More other extremes (hail, lightning)",,,19,,1,,,Hazard,0
+Greenhouse damage,,,20,,19,economic,,Impact,1
+Destroyed trees due to lightning,,,21,,19,environmental,,Impact,1
+Crop damage,,,22,,19,economic,,Impact,
+Changing rainfall patterns,,,23,,1,,,Hazard,0
+Shift in planting/harvesting seasons,,,24,,23,economic,,Impact,
+Reduced crop yields,,,25,,23,economic,,Impact,1
+Flooding of rivers,,,26,,1,,,Hazard,0
+Loss of human life,,,27,,26,socio,,Impact,1
+Damaged crops/homes/livestock,,,28,,26,economic,,Impact,

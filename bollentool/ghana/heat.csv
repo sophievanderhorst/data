@@ -1,0 +1,26 @@
+﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
+It is getting warmer,,,1,,,,,Theme,0
+Increase of average temperatures,,,2,,1,,,Hazard,0
+"Increased evaporation, soil water depletion and irrigation challenges",,,3,,2,economic,,Impact,0
+"Not able to plant at all, less food security",,,4,,2,economic,,Impact,1
+Wetlands and riverine systems converted to other ecosystems,,,5,,2,environmental,,Impact,0
+"More cooling, more electricity, more fossil fuels, more power outages",,,6,,2,economic,,Impact,1
+Change in growing seasons,,,7,,2,economic,,Impact,0
+"More favorable conditions for  pests and diseases, higher insecticide use",,,8,,2,economic,,Impact,0
+Change in crop suitability,,,9,,2,economic,,Impact,1
+More extreme temperatures,,,10,,1,,,Hazard,0
+Migration,,,11,,10,socio,,Impact,0
+More crimes because people sleep outside room,,,12,,10,socio,,Impact,1
+"Threat for the health of community, including farmers",,,13,,10,socio,,Impact,0
+"Homes get too hot, adaptation is needed ",,,14,,10,socio,,Impact,1
+Heat-related mortality (especially those with reduced immune system),,,15,,10,socio,,Impact,0
+Less working hours,,,16,,10,economic,,Impact,0
+"Human stress, less social, psychological and less conjugal activities",,,17,,10,socio,,,
+Heat stress for livestock,,,18,,10,economic,,Impact,0
+Unpredictable weather patterns make it difficult to plan,,,19,,10,economic,,Impact,0
+Crop stress and reduced yields,,,20,,10,economic,,Impact,0
+Reduced income,,,21,,19,economic,,,
+Higher surface water temperature,,,22,,1,,,Hazard,0
+Less aquatic life,,,23,,22,environmental,,Impact,1
+Reduced water quality,,,24,,22,environmental,,Impact,0
+Less effective chemicals,,,25,,22,economic,,,
