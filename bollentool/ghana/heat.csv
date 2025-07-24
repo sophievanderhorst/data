@@ -12,15 +12,14 @@ More extreme temperatures,,,10,,1,,,Hazard,0
 Migration,,,11,,10,socio,,Impact,1
 More crimes because people sleep outside room,,,12,,10,socio,,Impact,1
 "Threat for the health of community, including farmers",,,13,,10,socio,,Impact,0
-,,,,,,,,,
-Heat-related mortality (especially those with reduced immune system),,,15,,10,socio,,Impact,0
-Less working hours,,,16,,10,economic,,Impact,0
-"Human stress, less social, psychological and less conjugal activities",,,17,,10,socio,,,1
-Heat stress for livestock,,,18,,10,economic,,Impact,0
-Unpredictable weather patterns make it difficult to plan,,,19,,10,economic,,Impact,0
-Crop stress and reduced yields,,,20,,10,economic,,Impact,0
-Reduced income,,,21,,19,economic,,,1
-Higher surface water temperature,,,22,,1,,,Hazard,0
-Less aquatic life,,,23,,22,environmental,,Impact,1
-Reduced water quality,,,24,,22,environmental,,Impact,0
-Less effective chemicals,,,25,,22,economic,,,1
+Heat-related mortality (especially those with reduced immune system),,,14,,10,socio,,Impact,0
+Less working hours,,,15,,10,economic,,Impact,0
+"Human stress, less social, psychological and less conjugal activities",,,16,,10,socio,,,1
+Heat stress for livestock,,,17,,10,economic,,Impact,0
+Unpredictable weather patterns make it difficult to plan,,,18,,10,economic,,Impact,0
+Crop stress and reduced yields,,,19,,10,economic,,Impact,0
+Reduced income,,,20,,18,economic,,,1
+Higher surface water temperature,,,21,,1,,,Hazard,0
+Less aquatic life,,,22,,21,environmental,,Impact,1
+Reduced water quality,,,23,,21,environmental,,Impact,0
+Less effective chemicals,,,24,,21,economic,,,1
