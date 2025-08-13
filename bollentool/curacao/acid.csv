@@ -1,11 +1,11 @@
 ﻿description,beschrijving,descripcion,id,likelyness,parent,sector,severity,type,workshop
 Caribbean Sea is getting warmer and more acid,Caribische Zee wordt warmer en zuurder,Laman Karibe su awa ta bira mas kayente i mas zür,1,0,,,,Theme,
 "All species with calcereous skeleton at risk, less plankton","Alle diersoorten met kalkskelet in gevaar, minder plankton","Tur animal ku skelèt di kalki ta den peliger, tin ménos planktòn",2,0,1,environmental,0,Impact,1
-"Evolution / reproduction deseases, viruses, bacteria","Evolutie / verspreiding ziektes, virussen, bacteriën","Evolushon i plamamentu di malesa, virùs i bakteria",3,0,2,environmental,0,Impact,1
-More invasive species (e.g. lion fish),Meer invasieve soorten (bijv. koraalduivel),Mas espesie invasivo (por ehèmple lionfish),4,0,2,environmental,0,Impact,1
-Sargassum growth,Groei van Sargassum (zeewier),Kresemntu di sargaso (alga),5,0,2,environmental,0,Impact,1
-Loss of mangroves,Verlies van mangroven,Pérdida di palu di mangel,6,0,2,environmental,0,Impact,1
-Decline in coral reefs,Afname van koraalriffen,Desminuishon di ref di koral,7,0,2,environmental,0,Impact,0
+"Evolution / reproduction deseases, viruses, bacteria","Evolutie / verspreiding ziektes, virussen, bacteriën","Evolushon i plamamentu di malesa, virùs i bakteria",3,0,1,environmental,0,Impact,1
+More invasive species (e.g. lion fish),Meer invasieve soorten (bijv. koraalduivel),Mas espesie invasivo (por ehèmple lionfish),4,0,1,environmental,0,Impact,1
+Sargassum growth,Groei van Sargassum (zeewier),Kresemntu di sargaso (alga),5,0,1,environmental,0,Impact,1
+Loss of mangroves,Verlies van mangroven,Pérdida di palu di mangel,6,0,1,environmental,0,Impact,1
+Decline in coral reefs,Afname van koraalriffen,Desminuishon di ref di koral,7,0,1,environmental,0,Impact,0
 "Loss of marine biodiversity, loss of natural coastal protection","Verlies van biodiversiteit in de zee, verlies van natuurlijke kustbescherming","Pérdida di biodiversidat den laman, pérdida di protekshon natural kantu di laman",8,0,7,environmental,0,Impact,0
 Collapse of specific commercial fish species,Ineenstorting van specifieke commerciële vissoorten,Benta di piská ku balor komersial na peliger,9,0,7,economic,0,Impact,0
 Decline in tourism and cruises,Afname van toerisme en cruises,Ménos turismo i ménos barku di turista,10,0,7,economic,0,Impact,0
